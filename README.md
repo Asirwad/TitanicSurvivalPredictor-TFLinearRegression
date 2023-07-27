@@ -1,7 +1,7 @@
 # Titanic Survival Predictor using TensorFlow's Linear Regression 🚢🕵️‍♂️
 
 <p align="center">
-  <img src="https://github.com/Asirwad/TitanicSurvivalPredictor-TFLinearRegression/assets/85600836/d9d1fdab-0199-4c03-8413-7c8d58044fb3" alt="Project Logo" width="250">
+  <img src="https://github.com/Asirwad/TitanicSurvivalPredictor-TFLinearRegression/assets/85600836/077f318f-cac3-4175-b606-69b23d48933d" alt="Project Logo" width="250">
 </p>
 
 ## Overview
